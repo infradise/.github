@@ -1,20 +1,23 @@
 # Welcome to the Infradise organization
 
-Infradise Inc. is a company that creates open source cloud infrastructure software, such as Kubernetes and OpenStack, leveraging Linux containers and virtualization technologies. 
+Infradise is a startup specializing in integrated management and collaboration solutions for Kubernetes and OpenStack.
 
-# What's the meaning of Infradise
+# Slogan
 
-The word 'Infradise,' which is a combination of the words 'infrastructure' and 'paradise' in the company name, represents a desire to create a paradise in which people can live happily ever after without worrying about open source cloud infrastructure. 
-The company's purpose is to develop software that enables this type of development environment.
+Cloud Native Teams. Empowered.
+
+# Tagline
+
+Simplified Management & Seamless Collaboration for K8s & OpenStack.
 
 # Our Mission
 
-Our mission is to ensure remotely controllable and portable software benefits all of Developer and DevOps.
+Our mission is to ensure remotely controllable and portable software benefits all Developers and DevOps engineers.
 
 # Rationale
 
-Over the decades the open source cloud infrastructure (such as Kubernetes and OpenStack, leveraging Linux containers and virtualization technologies), is being evolved. For instance, number of computing cores on major cloud service has been increased by a factor of 5 from 10 million cores in the last 5 years. As one of the largest deployments in the world, it continues to grow across deployments of all sizes across industries and geographies.
+Over the past decade, open-source cloud infrastructure, particularly Kubernetes and OpenStack leveraging container and virtualization technologies, has evolved dramatically. The scale is immense; computing power on major cloud platforms, for instance, has grown exponentially, multiplying severalfold in recent years. This rapid expansion across industries and geographies, while powerful, results in increasingly complex systems that demand sophisticated management.
 
-However, management tools for these services and deployments are being relatively underdeveloped and still have a long way to go. Infradise would like to join in solving this problem. To this end, we would like to suggest mission-critical solutions, starting with our products publishing (such as Visualkube and OnePass VPN). Furthermore, we also research virtual private network tunneling technology to ensure security-enhanced and fast private network as secondary management tool.
+However, the development of robust management and collaboration tools for these complex environments has lagged significantly. This is the challenge Infradise was founded to address. We develop mission-critical solutions designed to simplify and secure cloud infrastructure operations, starting with our core product, Visualkube – an integrated management and collaboration platform for Kubernetes and OpenStack. Complementing this, we leverage our expertise in virtual private network technology through OnePass VPN, ensuring secure, high-performance access essential for effective remote management and collaboration.
 
-Infradise is a company for Kubernetes and OpenStack, Virtual Private Network (VPN). Interestingly the word 'Infradise,' which is a combination of the words 'infrastructure' and 'paradise' in the company name, represents a desire to create a paradise in which people can manage them happily ever after without the problem as mentioned above. 
+Infradise is a startup developing specialized solutions for managing and securing cloud-native infrastructure like Kubernetes and OpenStack, including advanced Virtual Private Network (VPN) technology. Our name, 'Infradise,'merges 'infrastructure' and 'paradise,' reflecting our core mission: to transform complex infrastructure management into a seamless and efficient experience, resolving the challenges outlined above.
