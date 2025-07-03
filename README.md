@@ -12,13 +12,13 @@ The goal is to maintain a single source of truth for our engineering standards, 
 
 Below is a list of the official guidelines and shared files managed in this repository.
 
-- **[Changelog Guideline (CHANGELOG_GUIDELINE.md)](./CHANGELOG_GUIDELINE.md)**
+- **[Changelog Guideline (CHANGELOG_GUIDELINE.md)](./docs/CHANGELOG_GUIDELINE.md)**
   - The official standard for writing and maintaining `CHANGELOG.md` files for our products. Note: This is a custom internal guideline and is not automatically used by GitHub.
 
-- **[Contribution Guide (CONTRIBUTING.md)](./CONTRIBUTING.md)**
+- **[Contribution Guide (CONTRIBUTING.md)](./docs/CONTRIBUTING.md)**
   - The default guideline for how to contribute to our projects. This file is automatically used by repositories in the organization that do not have their own `CONTRIBUTING.md`.
 
-- **[Code of Conduct (CODE_OF_CONDUCT.md)](./CODE_OF_CONDUCT.md)**
+- **[Code of Conduct (CODE_OF_CONDUCT.md)](./docs/CODE_OF_CONDUCT.md)**  - coming soon
   - Our community standards that apply to our projects. This file is automatically used by repositories that do not have their own `CODE_OF_CONDUCT.md`.
 
 ---
